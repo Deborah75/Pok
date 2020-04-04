@@ -62,7 +62,6 @@
 .boxed-btn:hover {
     background: #014b85;
     color: #fff !important;
-    border: 1px solid #014b85
 }
 
 .boxed-btn:focus {
@@ -6034,11 +6033,11 @@ form.search-box .search-form {
 form.search-box .search-form a {
     width: 100%;
     height: 55px;
-    background: #fde02f;
+    background: #000000;
     font-size: 20px;
     line-height: 1;
     text-align: center;
-    color: #000;
+    color: #FFFFFF;
     display: block;
     padding: 15px;
     border-radius: 5px;
