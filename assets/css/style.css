@@ -5947,7 +5947,7 @@ form.search-box {
 }
 
 form.search-box .input-form {
-    width: 54%
+    width: 30%
 }
 
 @media (max-width: 767px) {
@@ -5984,7 +5984,7 @@ form.search-box .input-form input::placeholder {
 }
 
 form.search-box .select-form {
-    width: 26%
+    width: 18%
 }
 
 @media (max-width: 767px) {
