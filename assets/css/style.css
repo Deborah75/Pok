@@ -6359,7 +6359,7 @@ form.search-box .search-form a {
 }
 
 .section-tittle2 span {
-    color: #ffb400;
+    color: #264247;
     text-transform: uppercase;
     margin-bottom: 6px;
     display: block
@@ -6399,8 +6399,8 @@ form.search-box .search-form a {
 }
 
 .favourite-place .single-place .place-cap .place-cap-top {
-    border-bottom: 1px solid #f6f7f7;
-    margin-bottom: 24px
+   
+    margin-bottom: 24px;
 }
 
 .favourite-place .single-place .place-cap .place-cap-top span {
