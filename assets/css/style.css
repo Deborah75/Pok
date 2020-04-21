@@ -7146,3 +7146,12 @@ form.search-box .search-form a {
     font-size: 50px;
     font-weight: 700
 }
+
+.input-search-date{
+    width:20% !important;
+}
+@media (max-width: 767px) {
+    .input-search-date {
+        width:100% !important;
+    }
+}
