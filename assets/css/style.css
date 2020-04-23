@@ -5947,7 +5947,7 @@ form.search-box {
 }
 
 form.search-box .input-form {
-    width: 54%
+    width: 30%
 }
 
 @media (max-width: 767px) {
@@ -5984,7 +5984,7 @@ form.search-box .input-form input::placeholder {
 }
 
 form.search-box .select-form {
-    width: 26%
+    width: 18%
 }
 
 @media (max-width: 767px) {
@@ -7145,4 +7145,13 @@ form.search-box .search-form a {
     color: #fff;
     font-size: 50px;
     font-weight: 700
+}
+
+.input-search-date{
+    width:20% !important;
+}
+@media (max-width: 767px) {
+    .input-search-date {
+        width:100% !important;
+    }
 }
