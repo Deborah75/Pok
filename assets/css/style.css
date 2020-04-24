@@ -5984,7 +5984,7 @@ form.search-box .input-form input::placeholder {
 }
 
 form.search-box .select-form {
-    width: 18%
+    width: 15%
 }
 
 @media (max-width: 767px) {
@@ -6021,7 +6021,7 @@ form.search-box .select-form .nice-select::after {
 }
 
 form.search-box .search-form {
-    width: 17%
+    width: 8%
 }
 
 @media (max-width: 767px) {
@@ -7003,7 +7003,6 @@ form.search-box .search-form a {
 }
 
 .footer-area .footer-tittle ul li a:hover {
-    color: #ffa801;
     padding-left: 5px
 }
 
